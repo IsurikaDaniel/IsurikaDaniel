@@ -21,7 +21,7 @@
 
 <br>
 <!-- img-->
-<img align="right" width="600" src="https://github.com/user-attachments/assets/eb907b25-9029-4254-974f-3668d1e4e48e" alt="Screenshot 2024-11-25 141427">
+<img align="right" width="500" src="https://github.com/user-attachments/assets/eb907b25-9029-4254-974f-3668d1e4e48e" alt="Screenshot 2024-11-25 141427">
 
 <br><br>
 
