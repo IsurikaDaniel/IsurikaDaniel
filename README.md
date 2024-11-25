@@ -16,7 +16,7 @@
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
 </div>
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!-- status graps and cards -->
  <h2 align="center">
   <img align="center" src="https://raw.githubusercontent.com/IsurikaDaniel/IsurikaDaniel/main/icons/stats.gif" width="32"/> My Stats....
@@ -31,6 +31,4 @@
   <br><br> <!-- Gap between cards -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsurikaDaniel&theme=tokyo-night"/>
 </div>
-
-
 
