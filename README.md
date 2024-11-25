@@ -1,7 +1,7 @@
 <h1 align="center">Hello👋, I'm D.Nethmi Isurika</h1>
-<h3 align="center">Tranee Full Stack Developer</h3>
+<h3 align="center">Trainee Full Stack Developer</h3>
 <br>
-<p align="center"> My expertise includes working with modern frameworks, languages, and tools, enabling me to create efficient and user-centric solutions.</p>
+<p align="center"> I am a full-stack developer with expertise in modern frameworks and programming languages. I am building efficient, user-centric applications, leveraging both frontend and backend technologies to create scalable solutions.💯</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=IsurikaDaniel&label=Profile%20views&color=0e75b6&style=flat" alt="IsurikaDaniel" /> 
 </p>
@@ -21,7 +21,7 @@
 
 <br>
 <!-- img-->
-<img align="right" width="500" src="https://github.com/user-attachments/assets/eb907b25-9029-4254-974f-3668d1e4e48e" alt="Screenshot 2024-11-25 141427">
+<img align="right" width="600" src="https://github.com/user-attachments/assets/eb907b25-9029-4254-974f-3668d1e4e48e" alt="Screenshot 2024-11-25 141427">
 
 <br><br>
 
