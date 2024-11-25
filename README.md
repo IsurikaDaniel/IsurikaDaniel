@@ -1,38 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm D.Nethmi Isurika</h1>
-<h3 align="center">Tranee Full Stack Developer</h3>
-<br>
-<p align="center"> My expertise includes working with modern frameworks, languages, and tools, enabling me to create efficient and user-centric solutions.</p>
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=IsurikaDaniel&label=Profile%20views&color=0e75b6&style=flat" alt="IsurikaDaniel" /> 
-</p>
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
-</div>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<!-- status graps and cards
- <h2 align="center">
-  <img align="center" src="https://raw.githubusercontent.com/IsurikaDaniel/IsurikaDaniel/main/icons/stats.gif" width="32"/> My Stats....
-</h2> 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsurikaDaniel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false"/>
-  <br><br> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsurikaDaniel&theme=tokyonight&hide_border=false"/>
-  <br><br> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsurikaDaniel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
-  <br><br> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsurikaDaniel&theme=tokyo-night"/>
-</div> -->
-
-<h1 align="center">Hi 👋, I'm D.Nethmi Isurika</h1>
+<h1 align="center">Hello👋, I'm D.Nethmi Isurika</h1>
 <h3 align="center">Tranee Full Stack Developer</h3>
 <br>
 <p align="center"> My expertise includes working with modern frameworks, languages, and tools, enabling me to create efficient and user-centric solutions.</p>
@@ -75,6 +41,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<!-- my Software Frameworks, Tools, and Libraries -->
 <h3 align="left">Frameworks</h3>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -92,9 +59,10 @@
 <h3 align="left">Programming Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c#,py,js,ts,html,css" />
+    <img src="https://skillicons.dev/icons?i=java,c,py,js,ts,html,css" />
   </a>
 </p>
+
 
 <h3 align="left">Database</h3>
 <p align="left">
@@ -149,5 +117,4 @@
 ------
 
 Auother: [Nethmi Isurika Daniel](https://github.com/IsurikaDaniel)
-<!--Last Edited on: 10/11/2024-->
 
