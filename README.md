@@ -17,4 +17,4 @@
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Nethmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsurikaDaniel&show_icons=true&theme=transparent)
