@@ -101,7 +101,8 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=IsurikaDaniel&theme=react-dark&hide_border=true&area=true)
 <p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=IsurikaDaniel&theme=gotham"/>
-<!--<img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />-->
+<img width="45%" align="right" src="https://github.com/user-attachments/assets/7e25eea6-e5aa-4901-9f46-fa01db7fe3e1" alt="Screenshot" />
+
 
 </p>
 
@@ -116,5 +117,5 @@
 
 ------
 
-Auother: [Nethmi Isurika Daniel](https://github.com/IsurikaDaniel)
+Author: [Nethmi Isurika Daniel](https://github.com/IsurikaDaniel)
 
