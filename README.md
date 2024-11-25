@@ -48,6 +48,7 @@
     <img src="https://skillicons.dev/icons?i=angular,react,nodejs,hibernate,spring" />
   </a>
 </p>
+<img width="45%" align="right" src="https://github.com/user-attachments/assets/7e25eea6-e5aa-4901-9f46-fa01db7fe3e1" alt="Screenshot" />
 
 <h3 align="left">Libraries</h3>
 <p align="left">
@@ -62,7 +63,6 @@
     <img src="https://skillicons.dev/icons?i=java,c,py,js,ts,html,css" />
   </a>
 </p>
-
 
 <h3 align="left">Database</h3>
 <p align="left">
@@ -101,8 +101,6 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=IsurikaDaniel&theme=react-dark&hide_border=true&area=true)
 <p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=IsurikaDaniel&theme=gotham"/>
-<img width="45%" align="right" src="https://github.com/user-attachments/assets/7e25eea6-e5aa-4901-9f46-fa01db7fe3e1" alt="Screenshot" />
-
 
 </p>
 
