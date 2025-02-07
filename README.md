@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋, I'm D.Nethmi Isurika</h1>
-<h3 align="center">Trainee Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer | WEB & Mobile App Developer | UI/UX Designer</h3>
 <br>
 <p align="center"> I am a full-stack developer with expertise in modern frameworks and programming languages. I am building efficient, user-centric applications, leveraging both frontend and backend technologies to create scalable solutions.💯</p>
 <p align="center"> 
