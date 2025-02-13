@@ -67,7 +67,7 @@
 <h3 align="left">Database</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
   </a>
 </p>
 
